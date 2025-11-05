@@ -1,6 +1,6 @@
 # Astrial-Whisper
 
-This repository contains cross-compiled binaries and libraries that are necessary to execute the [*speech_recognition*](https://github.com/hailo-ai/Hailo-Application-Code-Examples/tree/main/runtime/hailo-8/python/speech_recognition) application on the System Electronics' Astrial board.
+This repository contains cross-compiled binaries and libraries that are necessary to execute the [*speech_recognition*](https://github.com/hailo-ai/Hailo-Application-Code-Examples/tree/main/runtime/hailo-8/python/speech_recognition) application on the [System Electronics' Astrial IMX8MP H8](https://www.systemelectronics.ai/en) board.
 
 ## Instructions
 - Download the package cross-compiled for your OS version from the Releases section, for example:

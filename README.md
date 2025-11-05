@@ -7,7 +7,8 @@ This repository contains cross-compiled binaries and libraries that are necessar
   ```
   curl -LO https://github.com/hailocs/astrial-whisper/releases/download/astrial-v1.1.4/astrial-v1.1.4.zip
   ```
-- Extract the files, and load them to the board using SCP
+  This step can be performed either on the Astrial or on your PC (in this case, the zip file must be loaded to the board using SCP)
+- Extract the files
 - Copy the libraries to the */usr/lib/* folder and the *FFmpeg* binaries to the */usr/bin* folder
 - Verify that FFmpeg is working
   ```
